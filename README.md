@@ -105,10 +105,4 @@ To configure and deploy the Digit Recognizer application, follow these step-by-s
    Upload handwritten digit images through the web interface and verify that the application accurately recognizes and
    displays the digits.
 
-# YouTube Overview
-[![exe preview](https://img.youtube.com/vi/Z8w_emoGcSk/3.jpg)](https://www.youtube.com/watch?v=Z8w_emoGcSk)
-[![web preview](https://img.youtube.com/vi/QaiOVPZ-KC4/2.jpg)](https://www.youtube.com/watch?v=QaiOVPZ-KC4)
 
----
-
-Feel free to explore and contribute to this educational project! For any questions or issues, contact [Kavindu Kokila](mailto:kavindu.kokila.info@gmail.com?subject=[GitHub]%20Digit_recognizer%20Project%20Problems).
